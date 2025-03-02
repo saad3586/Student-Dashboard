@@ -1,0 +1,63 @@
+**Student Dashboard Report**
+
+**Overview:**
+This report provides an analysis of student performance based on different parameters visualized in the Student Dashboard. The dashboard includes key performance indicators (KPIs), graphical representations, and filters to analyze data efficiently.
+
+**Key Metrics:**
+
+Total Sum: 2250
+
+Sum of Basic Value: 1375
+
+Sum of Ads Value: 875
+
+**Filters Available:**
+
+**Question:** Allows selection of different questions for analysis.
+
+**Name:** Enables filtering data by individual students.
+
+**Situation:** Allows analysis based on different situations.
+
+**Visualizations and Analysis:**
+
+**Count of Name by Situation and Total**
+
+Displays the count of names per situation using a stacked bar chart.
+
+Different colors indicate different categories within each situation.
+
+**Sum of Total by Name (Pie Chart)**
+
+Represents the proportion of total sum distributed among students.
+
+The largest segment is labeled "1K (61.11%)" indicating the highest share.
+
+Count of Situation by Name and Total (Line Chart)
+
+Shows trends of different situations across student names.
+
+Various colored lines represent different situations.
+
+**Count of Situation by Name (Waterfall Chart)**
+
+Displays cumulative situations handled by students.
+
+Each bar represents the total count per student, leading to an overall total.
+
+Count of Question and Sum of Ads Value by Name and Total (Bar & Line Chart)
+
+Shows question count and ad value sums per student.
+
+Uses a combination of bar charts (count) and line graphs (ad values) for comparison.
+
+**Insights and Recommendations:**
+
+Top Performer: The student with the highest total sum should be analyzed for best practices.
+
+Situational Trends: Some situations have higher counts, which may indicate areas for curriculum improvements.
+
+Ad Value Contribution: The sum of ads value can help understand the effectiveness of advertisements in student engagement.
+
+**Conclusion:**
+This dashboard effectively provides insights into student performance and allows for data-driven decision-making. Further analysis can be done by refining filters to examine specific areas of interest.
